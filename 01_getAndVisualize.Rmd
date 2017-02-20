@@ -1,0 +1,47 @@
+---
+title: ""
+author: "Duc-Quang Nguyen | swissinfo.ch"
+date: " 2016"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    theme: simplex
+---
+
+```{r setup, include=FALSE}
+library(readr)
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(countrycode)
+library(ggplot2)
+library(scales)
+library(swiMap)
+library(swiTheme)
+library(forcats)
+
+### Getting data in packages
+library(rvest)
+library(readxl)
+library(WDI)
+library(eurostat)
+library(imfr)
+
+
+### Interactive 
+library(htmltools)
+library(shiny)
+library(swiRcharts)
+library(rCharts)
+
+### Mapping 
+# require(rgdal)
+# require(rgeos)
+# require(maptools)
+
+
+### Misc stuff
+#require(classInt)
+#require(viridis)
+```
