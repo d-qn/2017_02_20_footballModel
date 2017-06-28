@@ -1,0 +1,115 @@
+---
+title: ""
+author: "Duc-Quang Nguyen"
+date: " 2016"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    theme: simplex
+---
+## Swiss Super League
+
+The Swiss Super League (known as the Raiffeisen Super League for sponsorship reasons) is the top tier of the Swiss football league system and has been played in current format since the 2003–04 season
+
+* Before 2012-2013, results are in 2 phases!
+
+[wiki link](https://en.wikipedia.org/wiki/Swiss_Super_League)
+
+
+```{r setup, include=FALSE}
+# season start end
+yStart <- 2013 
+yEnd <- as.numeric(substr(Sys.Date(), 1, 4))
+
+library(readr)
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(rvest)
+```
+
+```{r scraping helper, include = F}
+# no submit form, use this hack to add a submit button
+# http://stackoverflow.com/questions/33885629/submit-form-with-no-submit-button-in-rvest
+fake_submit_button <- list(name = NULL,
+                           type = "submit",
+                           value = NULL,
+                           checked = NULL,
+                           disabled = NULL,
+                           readonly = NULL,
+                           required = FALSE)
+attr(fake_submit_button, "class") <- "input"
+```
+
+```{r scrape}
+url <- 'http://www.football.ch/sfl/fr/Resultats-et-Classements.aspx'
+html <- read_html(url)
+
+# # 1. Get all the seasons
+# seasons <- html %>%
+#   html_node("#ctl01_ctl00_NIS_Meisterschaft_f_SaisonId")# %>%
+
+session <- html_session(url)               ## create session
+form    <- html_form(session)[[1]]
+
+# available seasons, end season year
+seasons <- form$fields$`ctl01$ctl00$NIS_Meisterschaft$f_SaisonId`$options
+
+lapply(yStart:yEnd, function(season) {
+  season <- as.character(season)
+  outfile <- paste0("input/sfl_superLeague_", season, ".csv")
+  unplayed.file <- paste0("input/sfl_superLeague_", season, "_unplayed.csv")
+    
+  cat("\nDownloading season ", season)
+  
+  # try submtting form
+  modified_form <- set_values(form,
+    `ctl01$ctl00$NIS_Meisterschaft$f_SaisonId` = season, 
+    `ctl01$ctl00$NIS_Meisterschaft$f_LigaId` = "11011") #11011 is for Super League
+  
+  # no submit form, use this hack to add a submit button
+  # http://stackoverflow.com/questions/33885629/submit-form-with-no-submit-button-in-rvest
+  modified_form[["fields"]][["submit"]] <- fake_submit_button
+  result <- submit_form(session, modified_form)
+  # get the url
+  res.attrs <- html_nodes(result, "#ctl01_ctl00_NIS_Meisterschaft_lbTabPlan") %>%
+    html_attrs()
+  link <- res.attrs[[1]][3]
+  
+  cat("\n\tGet the table")
+  tb.html <- read_html(link)
+  tbs <- tb.html %>% html_nodes("table")
+  #tbs.tb <- lapply(tbs, html_table, fill = T) # inspect all the tables
+  
+  tb.all <- tbs[length(tbs)] %>% html_table() %>% .[[1]]
+  # get only useful data and rename to match fbRanks 
+  #  "date","home.team","home.score", and "away.team","away.score"
+  tb <- tb.all %>% select(X1, X2, X4, X5, X7) %>%
+    rename(date = X1, home.team = X2, away.team = X4, home.score = X5, away.score = X7)
+  header.old <- tb[1,]
+  tb <- tb[-1,]
+  
+  # get rid of hours in date and fill down
+  tb$date[grep(".*\\d+\\.\\d+\\.\\d+$", tb$date, invert = T)] <- NA
+  tb$date <- as.Date(gsub(".*(\\d{2}\\.\\d+\\.\\d+)$", "\\1", tb$date), format =  "%d.%m.%Y")
+  tb %<>% fill(date)
+  
+  # remove rows with time
+  tb <- tb[-which(tb$home.team == tb$away.team),]
+  tb$home.score <- as.numeric(tb$home.score)
+  tb$away.score <- as.numeric(tb$away.score)  
+
+  # discard NA scores
+  na.score <- which(is.na(tb$home.score) & is.na(tb$away.score))
+  if(length(na.score) >0) {
+    cat("\n\tDiscarding", length(na.score), " NA rows and saving them in:", unplayed.file)
+    write.csv(tb, file = unplayed.file, row.names = F)
+    #tb <- tb[-na.score,]
+  }
+  
+  cat("\n\tWriting table, with ", nrow(tb), " rows\n")
+  write.csv(tb, outfile, row.names = F, na = "NaN")  
+}) %>% invisible()
+
+```

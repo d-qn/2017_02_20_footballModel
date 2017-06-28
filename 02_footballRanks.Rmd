@@ -1,0 +1,104 @@
+---
+title: "02_footballRanks"
+author: "Duc-Quang Nguyen"
+date: "2/22/2017"
+output: html_document
+---
+
+# Litterature
+
+* [Evaluating the Predictive Accuracy of Association Football Forecasting Systems](http://constantinou.info/downloads/papers/evalPredAF2010.pdf)
+* Predict with that pakcage, p.7 vignette("Basic_team_ranking",package="fbRanks")
+
+# Parameters to optimize
+* The lookback
+  * start: season start - 1:5 years,
+  * end: last played game
+* Weight recent games
+  * time.weight.eta: 0, 0.05, 0.1
+
+```{r setup, include=FALSE}
+base.file <- "input/sfl_superLeague_"
+base_suffix.file <- "_unplayed"
+season.end <- 2017
+season.start <- 2013
+allseasons.file <- paste0(base.file, season.start, "_", season.end, ".csv")
+allseasons.file.unplayed <- paste0(base.file, season.start, "_", season.end, "_full", ".csv")
+max.date <- "2016-12-31"
+
+lb <- 1:3
+time.weight.eta <-  c(0, 0.05, 0.1)
+
+library(readr)
+library(tidyr)
+library(dplyr)
+library(magrittr)
+library(lubridate)
+library(fbRanks)
+library(speedglm) # for quick identical glm()
+
+```
+
+```{r load data, include=F}
+# load data and create the correct ojbect for rank.teams function
+fbr.unplayed <- create.fbRanks.dataframes(scores.file = paste0(base.file, season.end, base_suffix.file, ".csv"))
+
+#stitch all seasons
+all.seasons <- do.call(rbind, lapply(season.start:season.end, function(season) {
+  read.csv(paste0(base.file, season, ".csv"))  
+}))
+all.seasons$date <- as.Date(as.character(all.seasons$date))
+write.csv(all.seasons, file = allseasons.file, row.names = F, na = "NaN")
+# create fbranks object
+fbr <- create.fbRanks.dataframes(scores.file=allseasons.file)
+```
+```{r model}
+all.gamesp.dates <- unique(fbr$scores$date[!is.na(fbr$scores$home.score)])
+
+rank.tRange<- do.call(rbind, lapply(lb, function(ll) {
+  data.frame(min = ymd(all.gamesp.dates)-years(ll), max = ymd(all.gamesp.dates) - days(1))  
+}))
+rank.tRange %<>% filter(
+  min >= min(all.gamesp.dates), 
+  max <= ymd(max(all.gamesp.dates))-months(3)
+)
+
+
+```
+
+
+```{r find some features about the data}
+dates.all <- unique(fbr$scores$date)
+
+season_startEnd <- data.frame(
+  start = c(min(dates.all), dates.all[which(diff(dates.all) >= 24)+1]),
+  ends = c(dates.all[which(diff(dates.all) >= 24)-1], max(dates.all))
+)
+years <- t(apply(season_startEnd, 1, function(l) as.numeric(substr(l, 0, 4))))
+stopifnot(years[,1] == years[,2])
+season_startEnd$year <- years[,1]
+
+
+
+```
+
+```{r model}
+# vignette("Basic_team_ranking",package="fbRanks")
+# Team ranks via poisson regression 
+fb.ranks <- rank.teams(fbr$scores, teams = fbr$teams, fun = "speedglm")
+# Model
+model <- predict(fb.ranks)
+```
+
+
+
+
+```{r model future games, eval = F}
+# get all the unplayed games of the season
+na.score <- is.na(fbr.unplayed$scores$home.score) & is.na(fbr.unplayed$scores$away.score)
+unplayed <- fbr.unplayed$score[na.score,]
+unplayed[,c('home.score','away.score')] <- NaN
+
+model.unplayed <- predict(fb.ranks, newdata=unplayed)
+rank.unplayed <- simulate(fb.ranks, newdata=unplayed, points.rule = "league3pt")
+```

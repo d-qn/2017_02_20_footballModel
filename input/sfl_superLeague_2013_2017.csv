@@ -1,0 +1,901 @@
+"date","home.team","away.team","home.score","away.score"
+2012-07-13,"Servette FC","FC Basel 1893",0,1
+2012-07-14,"FC Thun","FC Lausanne-Sport",0,0
+2012-07-15,"FC Luzern","FC Zürich",1,1
+2012-07-15,"Grasshopper Club Zürich","FC Sion",0,2
+2012-07-15,"FC St. Gallen","BSC Young Boys",1,1
+2012-07-21,"FC Basel 1893","FC Luzern",2,2
+2012-07-21,"FC Lausanne-Sport","FC St. Gallen",0,1
+2012-07-22,"BSC Young Boys","Grasshopper Club Zürich",0,1
+2012-07-22,"FC Sion","Servette FC",1,0
+2012-07-22,"FC Zürich","FC Thun",0,2
+2012-07-28,"Grasshopper Club Zürich","FC Basel 1893",2,2
+2012-07-28,"FC St. Gallen","FC Zürich",3,1
+2012-07-29,"BSC Young Boys","FC Thun",3,0
+2012-07-29,"FC Lausanne-Sport","Servette FC",5,1
+2012-07-29,"FC Luzern","FC Sion",0,3
+2012-08-04,"FC Sion","FC Basel 1893",1,1
+2012-08-04,"FC St. Gallen","Grasshopper Club Zürich",1,1
+2012-08-05,"FC Zürich","FC Lausanne-Sport",4,0
+2012-08-05,"FC Thun","FC Luzern",2,1
+2012-08-05,"Servette FC","BSC Young Boys",1,1
+2012-08-11,"FC Luzern","FC St. Gallen",1,1
+2012-08-11,"FC Lausanne-Sport","FC Sion",0,2
+2012-08-12,"BSC Young Boys","FC Zürich",4,1
+2012-08-12,"Grasshopper Club Zürich","Servette FC",1,0
+2012-08-12,"FC Basel 1893","FC Thun",3,1
+2012-08-18,"FC Thun","FC St. Gallen",0,1
+2012-08-18,"FC Basel 1893","FC Lausanne-Sport",2,0
+2012-08-19,"FC Sion","BSC Young Boys",1,0
+2012-08-19,"Servette FC","FC Zürich",1,1
+2012-08-19,"FC Luzern","Grasshopper Club Zürich",0,2
+2012-08-25,"FC St. Gallen","FC Basel 1893",2,1
+2012-08-25,"Grasshopper Club Zürich","FC Thun",1,0
+2012-08-26,"FC Zürich","FC Sion",1,0
+2012-08-26,"Servette FC","FC Luzern",0,2
+2012-08-26,"BSC Young Boys","FC Lausanne-Sport",0,0
+2012-09-01,"FC Lausanne-Sport","Grasshopper Club Zürich",0,2
+2012-09-01,"FC Sion","FC St. Gallen",0,3
+2012-09-02,"FC Luzern","BSC Young Boys",1,2
+2012-09-02,"FC Thun","Servette FC",3,0
+2012-09-02,"FC Basel 1893","FC Zürich",0,0
+2012-09-22,"FC Zürich","Grasshopper Club Zürich",0,1
+2012-09-22,"FC Sion","FC Thun",2,1
+2012-09-23,"FC Lausanne-Sport","FC Luzern",1,0
+2012-09-23,"FC St. Gallen","Servette FC",2,0
+2012-09-23,"BSC Young Boys","FC Basel 1893",1,1
+2012-09-26,"Servette FC","FC Lausanne-Sport",0,1
+2012-09-26,"FC Zürich","FC St. Gallen",0,2
+2012-09-26,"FC Basel 1893","FC Sion",4,1
+2012-09-27,"Grasshopper Club Zürich","FC Luzern",2,0
+2012-09-27,"FC Thun","BSC Young Boys",2,1
+2012-09-29,"FC Lausanne-Sport","FC Basel 1893",1,1
+2012-09-30,"FC Luzern","FC Thun",2,1
+2012-09-30,"BSC Young Boys","Servette FC",6,2
+2012-09-30,"FC Sion","FC Zürich",2,2
+2012-10-01,"Grasshopper Club Zürich","FC St. Gallen",1,0
+2012-10-06,"FC St. Gallen","FC Lausanne-Sport",2,1
+2012-10-06,"FC Thun","Grasshopper Club Zürich",2,3
+2012-10-07,"FC Zürich","BSC Young Boys",1,1
+2012-10-07,"FC Sion","FC Luzern",3,2
+2012-10-07,"FC Basel 1893","Servette FC",3,2
+2012-10-20,"Servette FC","FC St. Gallen",1,1
+2012-10-20,"FC Thun","FC Sion",1,1
+2012-10-21,"FC Lausanne-Sport","FC Zürich",0,2
+2012-10-21,"FC Luzern","FC Basel 1893",1,0
+2012-10-21,"Grasshopper Club Zürich","BSC Young Boys",3,2
+2012-10-27,"FC Sion","FC Lausanne-Sport",1,1
+2012-10-28,"FC St. Gallen","FC Thun",1,0
+2012-10-28,"Servette FC","Grasshopper Club Zürich",2,0
+2012-10-28,"FC Zürich","FC Basel 1893",1,2
+2012-11-03,"FC Basel 1893","BSC Young Boys",2,0
+2012-11-03,"Grasshopper Club Zürich","FC Lausanne-Sport",1,1
+2012-11-04,"FC Luzern","Servette FC",1,1
+2012-11-04,"FC Thun","FC Zürich",1,4
+2012-11-04,"FC St. Gallen","FC Sion",0,3
+2012-11-17,"FC Lausanne-Sport","FC Thun",3,0
+2012-11-17,"FC Zürich","FC Luzern",0,2
+2012-11-18,"Servette FC","FC Sion",0,2
+2012-11-18,"BSC Young Boys","FC St. Gallen",0,0
+2012-11-18,"FC Basel 1893","Grasshopper Club Zürich",4,0
+2012-11-24,"FC Sion","Grasshopper Club Zürich",1,1
+2012-11-24,"FC Zürich","Servette FC",0,2
+2012-11-25,"FC St. Gallen","FC Luzern",1,1
+2012-11-25,"FC Lausanne-Sport","BSC Young Boys",2,1
+2012-11-25,"FC Thun","FC Basel 1893",3,2
+2012-11-28,"BSC Young Boys","FC Luzern",2,1
+2012-12-01,"FC Basel 1893","FC St. Gallen",1,0
+2012-12-01,"FC Luzern","FC Lausanne-Sport",0,0
+2012-12-02,"Servette FC","FC Thun",0,0
+2012-12-02,"BSC Young Boys","FC Sion",3,1
+2012-12-02,"Grasshopper Club Zürich","FC Zürich",1,0
+2013-02-09,"BSC Young Boys","FC Luzern",3,2
+2013-02-09,"Servette FC","Grasshopper Club Zürich",0,1
+2013-02-10,"FC Zürich","FC Lausanne-Sport",2,0
+2013-02-10,"FC Basel 1893","FC Sion",3,0
+2013-02-16,"Grasshopper Club Zürich","BSC Young Boys",2,0
+2013-02-16,"FC Sion","FC St. Gallen",1,0
+2013-02-17,"FC Lausanne-Sport","FC Basel 1893",1,2
+2013-02-17,"FC Luzern","FC Zürich",1,1
+2013-02-17,"FC Thun","Servette FC",1,1
+2013-02-23,"Servette FC","FC Lausanne-Sport",1,0
+2013-02-23,"FC Zürich","BSC Young Boys",4,0
+2013-02-24,"FC St. Gallen","FC Luzern",4,0
+2013-02-24,"FC Thun","FC Sion",4,0
+2013-02-24,"FC Basel 1893","Grasshopper Club Zürich",0,0
+2013-03-02,"FC Luzern","FC Thun",0,0
+2013-03-02,"FC Zürich","FC Sion",3,1
+2013-03-03,"Servette FC","FC Basel 1893",1,2
+2013-03-03,"BSC Young Boys","FC St. Gallen",2,0
+2013-03-03,"FC Lausanne-Sport","Grasshopper Club Zürich",0,0
+2013-03-09,"Grasshopper Club Zürich","FC St. Gallen",3,1
+2013-03-09,"FC Luzern","Servette FC",1,1
+2013-03-10,"FC Sion","FC Lausanne-Sport",0,1
+2013-03-10,"FC Thun","FC Zürich",0,4
+2013-03-10,"FC Basel 1893","BSC Young Boys",3,0
+2013-03-13,"FC St. Gallen","FC Thun",0,0
+2013-03-16,"Servette FC","FC Zürich",1,2
+2013-03-16,"FC St. Gallen","FC Lausanne-Sport",3,1
+2013-03-17,"BSC Young Boys","FC Sion",0,0
+2013-03-17,"FC Basel 1893","FC Thun",1,0
+2013-03-17,"Grasshopper Club Zürich","FC Luzern",0,0
+2013-03-30,"FC Sion","Servette FC",1,1
+2013-03-30,"FC Thun","Grasshopper Club Zürich",1,0
+2013-03-30,"FC Zürich","FC St. Gallen",1,3
+2013-04-01,"FC Lausanne-Sport","BSC Young Boys",0,0
+2013-04-01,"FC Luzern","FC Basel 1893",0,4
+2013-04-06,"FC Sion","FC Luzern",2,1
+2013-04-06,"FC Zürich","Grasshopper Club Zürich",2,4
+2013-04-07,"BSC Young Boys","Servette FC",0,2
+2013-04-07,"FC Lausanne-Sport","FC Thun",2,4
+2013-04-07,"FC St. Gallen","FC Basel 1893",1,1
+2013-04-13,"FC Luzern","FC Lausanne-Sport",1,0
+2013-04-13,"Servette FC","FC St. Gallen",1,3
+2013-04-14,"BSC Young Boys","FC Thun",1,2
+2013-04-14,"FC Basel 1893","FC Zürich",3,1
+2013-04-14,"Grasshopper Club Zürich","FC Sion",1,1
+2013-04-20,"FC Zürich","Servette FC",4,0
+2013-04-20,"FC Lausanne-Sport","FC St. Gallen",1,3
+2013-04-21,"FC Luzern","Grasshopper Club Zürich",1,1
+2013-04-21,"FC Thun","FC Basel 1893",2,2
+2013-04-21,"FC Sion","BSC Young Boys",0,0
+2013-04-27,"Grasshopper Club Zürich","FC Thun",0,2
+2013-04-28,"FC Basel 1893","FC Luzern",0,3
+2013-04-28,"BSC Young Boys","FC Lausanne-Sport",3,1
+2013-04-28,"FC St. Gallen","FC Zürich",1,2
+2013-05-03,"FC Lausanne-Sport","FC Zürich",1,1
+2013-05-04,"Grasshopper Club Zürich","Servette FC",2,0
+2013-05-04,"FC St. Gallen","BSC Young Boys",3,1
+2013-05-05,"FC Sion","FC Basel 1893",0,1
+2013-05-05,"FC Thun","FC Luzern",1,1
+2013-05-07,"BSC Young Boys","Grasshopper Club Zürich",4,0
+2013-05-08,"FC Lausanne-Sport","FC Sion",1,3
+2013-05-08,"FC Luzern","FC St. Gallen",2,0
+2013-05-08,"FC Zürich","FC Basel 1893",3,1
+2013-05-09,"Servette FC","FC Thun",2,0
+2013-05-11,"FC Luzern","BSC Young Boys",3,1
+2013-05-11,"FC St. Gallen","FC Sion",5,0
+2013-05-12,"FC Thun","FC Lausanne-Sport",2,0
+2013-05-12,"FC Basel 1893","Servette FC",2,0
+2013-05-12,"Grasshopper Club Zürich","FC Zürich",0,1
+2013-05-16,"FC Basel 1893","FC Lausanne-Sport",2,0
+2013-05-16,"FC Sion","Grasshopper Club Zürich",0,4
+2013-05-17,"FC Thun","FC St. Gallen",3,0
+2013-05-18,"FC Zürich","FC Luzern",4,1
+2013-05-18,"Servette FC","BSC Young Boys",0,1
+2013-05-22,"Servette FC","FC Sion",4,0
+2013-05-25,"FC Lausanne-Sport","FC Luzern",3,0
+2013-05-25,"FC Sion","FC Thun",0,1
+2013-05-26,"FC St. Gallen","Servette FC",4,1
+2013-05-26,"BSC Young Boys","FC Zürich",2,4
+2013-05-26,"Grasshopper Club Zürich","FC Basel 1893",1,0
+2013-05-29,"FC Lausanne-Sport","Servette FC",3,0
+2013-05-29,"FC Luzern","FC Sion",2,0
+2013-05-29,"FC St. Gallen","Grasshopper Club Zürich",1,2
+2013-05-29,"BSC Young Boys","FC Basel 1893",0,1
+2013-05-29,"FC Zürich","FC Thun",2,0
+2013-06-01,"FC Basel 1893","FC St. Gallen",1,0
+2013-06-01,"Grasshopper Club Zürich","FC Lausanne-Sport",4,1
+2013-06-01,"Servette FC","FC Luzern",3,4
+2013-06-01,"FC Sion","FC Zürich",4,2
+2013-06-01,"FC Thun","BSC Young Boys",2,2
+2013-07-13,"FC Basel 1893","FC Aarau",3,1
+2013-07-13,"BSC Young Boys","FC Sion",2,0
+2013-07-14,"FC Zürich","FC Thun",3,2
+2013-07-14,"FC Luzern","FC Lausanne-Sport",2,0
+2013-07-14,"FC St. Gallen","Grasshopper Club Zürich",0,2
+2013-07-20,"FC Aarau","FC Luzern",4,2
+2013-07-20,"FC Lausanne-Sport","BSC Young Boys",1,3
+2013-07-21,"FC Thun","FC St. Gallen",3,2
+2013-07-21,"FC Sion","FC Zürich",0,0
+2013-07-21,"Grasshopper Club Zürich","FC Basel 1893",1,1
+2013-07-27,"FC Basel 1893","FC Lausanne-Sport",2,0
+2013-07-27,"Grasshopper Club Zürich","FC Aarau",4,2
+2013-07-28,"FC Sion","FC St. Gallen",0,1
+2013-07-28,"FC Luzern","FC Zürich",3,2
+2013-07-28,"BSC Young Boys","FC Thun",3,2
+2013-08-03,"FC St. Gallen","FC Basel 1893",1,1
+2013-08-03,"FC Lausanne-Sport","Grasshopper Club Zürich",0,0
+2013-08-04,"FC Zürich","BSC Young Boys",1,3
+2013-08-04,"FC Thun","FC Aarau",2,2
+2013-08-04,"FC Luzern","FC Sion",1,0
+2013-08-10,"Grasshopper Club Zürich","FC Sion",0,0
+2013-08-10,"FC Aarau","BSC Young Boys",0,4
+2013-08-11,"FC Thun","FC Luzern",1,1
+2013-08-11,"FC St. Gallen","FC Lausanne-Sport",2,0
+2013-08-11,"FC Basel 1893","FC Zürich",1,2
+2013-08-24,"FC Luzern","FC Basel 1893",1,1
+2013-08-24,"FC Lausanne-Sport","FC Aarau",1,2
+2013-08-25,"BSC Young Boys","Grasshopper Club Zürich",1,2
+2013-08-25,"FC Sion","FC Thun",0,0
+2013-08-25,"FC Zürich","FC St. Gallen",0,0
+2013-08-31,"FC Aarau","FC Sion",0,1
+2013-09-01,"FC Thun","FC Lausanne-Sport",4,1
+2013-09-01,"FC St. Gallen","FC Luzern",4,1
+2013-09-01,"FC Basel 1893","BSC Young Boys",2,1
+2013-09-21,"BSC Young Boys","FC Luzern",0,1
+2013-09-22,"FC Lausanne-Sport","FC Zürich",1,2
+2013-09-22,"Grasshopper Club Zürich","FC Thun",2,1
+2013-09-22,"FC Sion","FC Basel 1893",1,3
+2013-09-24,"FC St. Gallen","BSC Young Boys",0,0
+2013-09-25,"FC Thun","FC Basel 1893",0,2
+2013-09-25,"FC Sion","FC Lausanne-Sport",2,1
+2013-09-25,"FC Luzern","Grasshopper Club Zürich",0,2
+2013-09-26,"FC Zürich","FC Aarau",1,2
+2013-09-28,"FC Basel 1893","FC Sion",2,2
+2013-09-28,"Grasshopper Club Zürich","FC St. Gallen",0,1
+2013-09-29,"FC Luzern","FC Thun",1,1
+2013-09-29,"FC Aarau","FC Lausanne-Sport",2,3
+2013-09-29,"BSC Young Boys","FC Zürich",0,1
+2013-10-05,"FC Zürich","FC Luzern",0,2
+2013-10-05,"FC Sion","BSC Young Boys",2,2
+2013-10-06,"FC St. Gallen","FC Aarau",1,0
+2013-10-06,"FC Thun","Grasshopper Club Zürich",1,1
+2013-10-06,"FC Lausanne-Sport","FC Basel 1893",1,2
+2013-10-19,"FC Basel 1893","FC St. Gallen",3,0
+2013-10-19,"FC Thun","FC Sion",1,0
+2013-10-20,"FC Aarau","FC Zürich",5,1
+2013-10-20,"Grasshopper Club Zürich","FC Lausanne-Sport",2,0
+2013-10-20,"FC Luzern","BSC Young Boys",1,1
+2013-10-26,"BSC Young Boys","FC Aarau",3,0
+2013-10-26,"FC Lausanne-Sport","FC Luzern",0,1
+2013-10-27,"FC Sion","Grasshopper Club Zürich",2,0
+2013-10-27,"FC St. Gallen","FC Thun",0,0
+2013-10-27,"FC Zürich","FC Basel 1893",0,0
+2013-10-30,"FC Aarau","FC St. Gallen",2,2
+2013-10-30,"Grasshopper Club Zürich","FC Zürich",3,1
+2013-11-02,"FC Sion","FC Luzern",3,0
+2013-11-02,"FC Aarau","FC Basel 1893",1,1
+2013-11-03,"FC Lausanne-Sport","FC St. Gallen",0,3
+2013-11-03,"FC Thun","FC Zürich",2,1
+2013-11-03,"Grasshopper Club Zürich","BSC Young Boys",0,1
+2013-11-23,"FC Basel 1893","FC Thun",4,1
+2013-11-23,"BSC Young Boys","FC Lausanne-Sport",3,2
+2013-11-24,"FC Aarau","Grasshopper Club Zürich",2,4
+2013-11-24,"FC Zürich","FC Sion",4,1
+2013-11-24,"FC Luzern","FC St. Gallen",3,1
+2013-11-30,"Grasshopper Club Zürich","FC Luzern",1,2
+2013-12-01,"FC St. Gallen","FC Zürich",2,1
+2013-12-01,"FC Lausanne-Sport","FC Thun",0,2
+2013-12-01,"BSC Young Boys","FC Basel 1893",2,2
+2013-12-07,"FC Basel 1893","Grasshopper Club Zürich",1,1
+2013-12-07,"FC Zürich","FC Lausanne-Sport",4,0
+2013-12-08,"FC Luzern","FC Aarau",1,0
+2013-12-08,"FC St. Gallen","FC Sion",2,0
+2013-12-08,"FC Thun","BSC Young Boys",1,0
+2013-12-14,"FC Basel 1893","FC Luzern",1,1
+2013-12-14,"FC Lausanne-Sport","FC Sion",3,1
+2013-12-15,"BSC Young Boys","FC St. Gallen",1,0
+2013-12-15,"FC Aarau","FC Thun",2,1
+2013-12-15,"FC Zürich","Grasshopper Club Zürich",1,1
+2014-02-01,"FC Zürich","FC Sion",1,0
+2014-02-01,"FC Aarau","FC St. Gallen",1,1
+2014-02-02,"FC Lausanne-Sport","FC Basel 1893",1,3
+2014-02-02,"FC Luzern","Grasshopper Club Zürich",1,3
+2014-02-02,"BSC Young Boys","FC Thun",2,1
+2014-02-08,"FC Basel 1893","BSC Young Boys",3,2
+2014-02-08,"FC Thun","FC Luzern",2,1
+2014-02-09,"FC Sion","FC Lausanne-Sport",1,2
+2014-02-09,"Grasshopper Club Zürich","FC Aarau",1,2
+2014-02-09,"FC St. Gallen","FC Zürich",0,2
+2014-02-15,"FC Basel 1893","FC Sion",1,0
+2014-02-15,"FC Luzern","FC Aarau",3,2
+2014-02-16,"FC St. Gallen","Grasshopper Club Zürich",1,5
+2014-02-16,"FC Zürich","FC Thun",3,1
+2014-02-16,"BSC Young Boys","FC Lausanne-Sport",5,3
+2014-02-22,"FC Thun","FC Sion",3,1
+2014-02-22,"FC Aarau","FC Zürich",1,2
+2014-02-23,"FC Lausanne-Sport","FC St. Gallen",3,0
+2014-02-23,"FC Luzern","BSC Young Boys",1,2
+2014-02-23,"Grasshopper Club Zürich","FC Basel 1893",1,1
+2014-02-26,"FC Sion","BSC Young Boys",3,0
+2014-03-01,"FC Zürich","Grasshopper Club Zürich",3,1
+2014-03-01,"FC Lausanne-Sport","FC Aarau",0,1
+2014-03-02,"FC Thun","FC Basel 1893",2,2
+2014-03-02,"FC St. Gallen","FC Luzern",1,1
+2014-03-08,"FC Basel 1893","FC St. Gallen",1,1
+2014-03-08,"Grasshopper Club Zürich","FC Lausanne-Sport",2,1
+2014-03-09,"BSC Young Boys","FC Zürich",1,3
+2014-03-09,"FC Aarau","FC Thun",1,4
+2014-03-09,"FC Sion","FC Luzern",3,2
+2014-03-12,"FC Sion","FC Aarau",1,2
+2014-03-15,"FC Thun","FC Lausanne-Sport",2,2
+2014-03-15,"FC St. Gallen","BSC Young Boys",1,1
+2014-03-16,"FC Luzern","FC Zürich",1,0
+2014-03-16,"Grasshopper Club Zürich","FC Sion",4,2
+2014-03-16,"FC Basel 1893","FC Aarau",5,0
+2014-03-22,"FC St. Gallen","FC Thun",1,0
+2014-03-22,"FC Aarau","FC Sion",2,0
+2014-03-23,"FC Lausanne-Sport","FC Luzern",1,0
+2014-03-23,"FC Zürich","FC Basel 1893",0,0
+2014-03-23,"BSC Young Boys","Grasshopper Club Zürich",0,4
+2014-03-29,"FC Sion","FC St. Gallen",1,1
+2014-03-29,"FC Aarau","BSC Young Boys",2,1
+2014-03-30,"FC Zürich","FC Lausanne-Sport",0,3
+2014-03-30,"FC Thun","Grasshopper Club Zürich",1,3
+2014-03-30,"FC Luzern","FC Basel 1893",0,2
+2014-04-05,"Grasshopper Club Zürich","FC Zürich",2,0
+2014-04-05,"FC St. Gallen","FC Aarau",4,1
+2014-04-06,"FC Lausanne-Sport","FC Sion",0,1
+2014-04-06,"FC Basel 1893","FC Thun",0,0
+2014-04-06,"BSC Young Boys","FC Luzern",2,1
+2014-04-12,"FC Thun","FC Aarau",2,0
+2014-04-12,"FC Lausanne-Sport","Grasshopper Club Zürich",0,2
+2014-04-13,"FC Sion","FC Basel 1893",0,1
+2014-04-13,"FC Luzern","FC St. Gallen",1,0
+2014-04-13,"FC Zürich","BSC Young Boys",2,2
+2014-04-16,"Grasshopper Club Zürich","FC Thun",0,5
+2014-04-16,"FC Aarau","FC Luzern",1,2
+2014-04-16,"FC Basel 1893","FC Zürich",4,2
+2014-04-17,"BSC Young Boys","FC Sion",0,0
+2014-04-17,"FC St. Gallen","FC Lausanne-Sport",0,0
+2014-04-26,"FC Zürich","FC Luzern",1,2
+2014-04-26,"FC Sion","FC Aarau",2,0
+2014-04-27,"FC Lausanne-Sport","BSC Young Boys",0,1
+2014-04-27,"FC Thun","FC St. Gallen",4,0
+2014-04-27,"FC Basel 1893","Grasshopper Club Zürich",1,1
+2014-05-03,"FC Thun","FC Zürich",1,2
+2014-05-03,"FC Luzern","FC Sion",0,1
+2014-05-04,"FC St. Gallen","FC Basel 1893",0,3
+2014-05-04,"FC Aarau","FC Lausanne-Sport",3,1
+2014-05-04,"Grasshopper Club Zürich","BSC Young Boys",5,0
+2014-05-06,"FC Sion","FC Zürich",1,0
+2014-05-07,"Grasshopper Club Zürich","FC St. Gallen",2,0
+2014-05-07,"BSC Young Boys","FC Aarau",2,2
+2014-05-07,"FC Basel 1893","FC Luzern",3,1
+2014-05-08,"FC Lausanne-Sport","FC Thun",1,3
+2014-05-10,"FC Zürich","FC St. Gallen",2,2
+2014-05-10,"FC Aarau","Grasshopper Club Zürich",4,0
+2014-05-11,"FC Sion","FC Thun",3,1
+2014-05-11,"FC Luzern","FC Lausanne-Sport",3,4
+2014-05-11,"BSC Young Boys","FC Basel 1893",3,1
+2014-05-15,"Grasshopper Club Zürich","FC Luzern",4,1
+2014-05-15,"FC Thun","BSC Young Boys",0,3
+2014-05-15,"FC St. Gallen","FC Sion",2,0
+2014-05-15,"FC Aarau","FC Basel 1893",1,3
+2014-05-15,"FC Lausanne-Sport","FC Zürich",0,1
+2014-05-18,"FC Basel 1893","FC Lausanne-Sport",4,2
+2014-05-18,"FC Zürich","FC Aarau",2,2
+2014-05-18,"BSC Young Boys","FC St. Gallen",2,0
+2014-05-18,"FC Sion","Grasshopper Club Zürich",3,1
+2014-05-18,"FC Luzern","FC Thun",3,0
+2014-07-19,"FC Aarau","FC Basel 1893",1,2
+2014-07-19,"FC St. Gallen","BSC Young Boys",2,2
+2014-07-20,"FC Thun","FC Vaduz",1,0
+2014-07-20,"FC Luzern","FC Sion",1,1
+2014-07-20,"FC Zürich","Grasshopper Club Zürich",1,0
+2014-07-23,"FC Aarau","FC Sion",1,0
+2014-07-23,"FC Zürich","FC Thun",2,1
+2014-07-26,"Grasshopper Club Zürich","FC Thun",2,3
+2014-07-26,"FC Sion","FC St. Gallen",1,0
+2014-07-27,"BSC Young Boys","FC Aarau",1,1
+2014-07-27,"FC Vaduz","FC Zürich",1,4
+2014-07-27,"FC Basel 1893","FC Luzern",3,0
+2014-08-02,"FC Thun","FC Basel 1893",2,3
+2014-08-02,"Grasshopper Club Zürich","FC Sion",0,0
+2014-08-03,"FC Zürich","BSC Young Boys",2,1
+2014-08-03,"FC St. Gallen","FC Luzern",2,1
+2014-08-06,"FC Aarau","FC Vaduz",1,1
+2014-08-09,"FC St. Gallen","FC Aarau",2,2
+2014-08-09,"FC Basel 1893","FC Zürich",4,1
+2014-08-10,"FC Sion","FC Vaduz",1,0
+2014-08-10,"FC Luzern","Grasshopper Club Zürich",1,1
+2014-08-10,"BSC Young Boys","FC Thun",1,1
+2014-08-13,"FC Vaduz","FC Luzern",1,1
+2014-08-13,"BSC Young Boys","Grasshopper Club Zürich",4,0
+2014-08-14,"FC Basel 1893","FC St. Gallen",0,2
+2014-08-16,"FC Aarau","Grasshopper Club Zürich",1,2
+2014-08-16,"FC Luzern","FC Zürich",1,1
+2014-08-17,"FC Sion","FC Basel 1893",2,3
+2014-08-17,"FC Thun","FC St. Gallen",3,1
+2014-08-17,"FC Vaduz","BSC Young Boys",0,2
+2014-08-30,"FC Thun","FC Sion",2,1
+2014-08-30,"FC Luzern","FC Aarau",1,1
+2014-08-31,"Grasshopper Club Zürich","FC Vaduz",0,1
+2014-08-31,"FC St. Gallen","FC Zürich",0,2
+2014-08-31,"FC Basel 1893","BSC Young Boys",3,1
+2014-09-13,"Grasshopper Club Zürich","FC Basel 1893",3,1
+2014-09-13,"FC Aarau","FC Thun",2,1
+2014-09-14,"BSC Young Boys","FC Luzern",3,2
+2014-09-14,"FC Vaduz","FC St. Gallen",2,2
+2014-09-14,"FC Zürich","FC Sion",4,1
+2014-09-23,"FC Basel 1893","FC Vaduz",3,1
+2014-09-23,"FC Thun","FC Luzern",3,2
+2014-09-24,"FC St. Gallen","Grasshopper Club Zürich",3,0
+2014-09-24,"FC Zürich","FC Aarau",0,0
+2014-09-24,"FC Sion","BSC Young Boys",0,1
+2014-09-27,"Grasshopper Club Zürich","FC Aarau",2,1
+2014-09-27,"FC Basel 1893","FC Thun",1,1
+2014-09-28,"BSC Young Boys","FC Zürich",2,1
+2014-09-28,"FC Vaduz","FC Sion",1,0
+2014-09-28,"FC Luzern","FC St. Gallen",1,2
+2014-10-04,"FC Thun","Grasshopper Club Zürich",3,2
+2014-10-04,"FC St. Gallen","FC Basel 1893",2,1
+2014-10-05,"FC Sion","FC Luzern",3,1
+2014-10-05,"FC Zürich","FC Vaduz",3,0
+2014-10-05,"FC Aarau","BSC Young Boys",3,2
+2014-10-18,"FC Aarau","FC St. Gallen",0,3
+2014-10-18,"BSC Young Boys","FC Basel 1893",0,1
+2014-10-19,"FC Sion","FC Thun",0,0
+2014-10-19,"FC Luzern","FC Vaduz",0,0
+2014-10-19,"Grasshopper Club Zürich","FC Zürich",1,3
+2014-10-25,"FC Thun","FC Aarau",0,0
+2014-10-25,"FC Basel 1893","FC Sion",1,1
+2014-10-26,"FC Zürich","FC St. Gallen",1,1
+2014-10-26,"FC Vaduz","Grasshopper Club Zürich",1,1
+2014-11-01,"FC Zürich","FC Luzern",2,3
+2014-11-01,"FC Basel 1893","Grasshopper Club Zürich",2,0
+2014-11-02,"BSC Young Boys","FC Vaduz",0,1
+2014-11-02,"FC Sion","FC Aarau",2,2
+2014-11-02,"FC St. Gallen","FC Thun",1,0
+2014-11-08,"FC Luzern","FC Thun",0,0
+2014-11-08,"Grasshopper Club Zürich","FC St. Gallen",3,0
+2014-11-09,"FC Aarau","FC Zürich",0,1
+2014-11-09,"FC Vaduz","FC Basel 1893",0,4
+2014-11-09,"BSC Young Boys","FC Sion",2,1
+2014-11-22,"FC Sion","FC Zürich",1,3
+2014-11-22,"Grasshopper Club Zürich","FC Luzern",3,2
+2014-11-23,"FC St. Gallen","FC Vaduz",3,3
+2014-11-23,"FC Basel 1893","FC Aarau",3,0
+2014-11-23,"FC Thun","BSC Young Boys",0,1
+2014-11-29,"FC Aarau","FC Luzern",0,3
+2014-11-29,"FC Sion","Grasshopper Club Zürich",3,3
+2014-11-30,"BSC Young Boys","FC St. Gallen",4,2
+2014-11-30,"FC Vaduz","FC Thun",0,1
+2014-11-30,"FC Zürich","FC Basel 1893",1,2
+2014-12-03,"FC Luzern","BSC Young Boys",1,2
+2014-12-06,"FC Luzern","FC Basel 1893",0,3
+2014-12-06,"Grasshopper Club Zürich","BSC Young Boys",0,1
+2014-12-07,"FC Thun","FC Zürich",2,1
+2014-12-07,"FC Vaduz","FC Aarau",1,0
+2014-12-07,"FC St. Gallen","FC Sion",2,0
+2015-02-07,"FC Luzern","BSC Young Boys",1,1
+2015-02-07,"FC St. Gallen","FC Zürich",1,4
+2015-02-08,"FC Thun","FC Aarau",1,1
+2015-02-08,"Grasshopper Club Zürich","FC Basel 1893",2,4
+2015-02-14,"FC Basel 1893","FC Sion",1,1
+2015-02-14,"BSC Young Boys","Grasshopper Club Zürich",4,2
+2015-02-15,"FC St. Gallen","FC Luzern",0,0
+2015-02-15,"FC Aarau","FC Vaduz",0,1
+2015-02-15,"FC Zürich","FC Thun",0,1
+2015-02-21,"Grasshopper Club Zürich","FC Zürich",0,2
+2015-02-22,"FC Luzern","FC Aarau",4,0
+2015-02-22,"FC Vaduz","FC Thun",1,1
+2015-02-22,"BSC Young Boys","FC Basel 1893",4,2
+2015-02-25,"FC Vaduz","FC Sion",0,2
+2015-02-28,"FC Zürich","FC Aarau",0,0
+2015-02-28,"FC Basel 1893","FC Vaduz",1,0
+2015-03-01,"FC Thun","BSC Young Boys",0,0
+2015-03-01,"FC St. Gallen","Grasshopper Club Zürich",1,1
+2015-03-01,"FC Sion","FC Luzern",2,2
+2015-03-07,"Grasshopper Club Zürich","FC Luzern",1,0
+2015-03-07,"FC Basel 1893","FC Thun",3,0
+2015-03-08,"BSC Young Boys","FC Sion",3,2
+2015-03-08,"FC Vaduz","FC Zürich",2,2
+2015-03-08,"FC Aarau","FC St. Gallen",0,2
+2015-03-14,"FC Luzern","FC Vaduz",2,0
+2015-03-14,"FC Thun","Grasshopper Club Zürich",2,2
+2015-03-15,"FC Zürich","FC Sion",0,1
+2015-03-15,"FC Aarau","BSC Young Boys",1,1
+2015-03-15,"FC St. Gallen","FC Basel 1893",2,2
+2015-03-18,"FC Sion","FC St. Gallen",3,0
+2015-03-21,"FC Luzern","FC Basel 1893",1,4
+2015-03-21,"Grasshopper Club Zürich","FC Aarau",3,1
+2015-03-22,"FC Vaduz","FC St. Gallen",3,1
+2015-03-22,"FC Sion","FC Thun",3,0
+2015-03-22,"BSC Young Boys","FC Zürich",3,0
+2015-04-03,"FC Vaduz","BSC Young Boys",0,1
+2015-04-03,"FC Sion","Grasshopper Club Zürich",0,5
+2015-04-04,"FC Zürich","FC Luzern",0,1
+2015-04-04,"FC Thun","FC St. Gallen",4,1
+2015-04-04,"FC Basel 1893","FC Aarau",6,0
+2015-04-11,"FC Thun","FC Luzern",1,0
+2015-04-11,"FC St. Gallen","BSC Young Boys",3,1
+2015-04-12,"FC Aarau","FC Sion",0,1
+2015-04-12,"Grasshopper Club Zürich","FC Vaduz",1,1
+2015-04-12,"FC Basel 1893","FC Zürich",5,1
+2015-04-18,"FC Sion","FC Basel 1893",0,1
+2015-04-18,"FC Zürich","FC St. Gallen",1,2
+2015-04-19,"BSC Young Boys","FC Thun",4,0
+2015-04-19,"FC Vaduz","FC Aarau",0,2
+2015-04-19,"FC Luzern","Grasshopper Club Zürich",2,0
+2015-04-25,"FC Aarau","FC Zürich",0,0
+2015-04-25,"FC Thun","FC Sion",2,1
+2015-04-26,"FC St. Gallen","FC Vaduz",1,2
+2015-04-26,"FC Basel 1893","FC Luzern",1,2
+2015-04-26,"Grasshopper Club Zürich","BSC Young Boys",2,2
+2015-04-28,"FC Sion","FC Zürich",1,2
+2015-04-29,"Grasshopper Club Zürich","FC Thun",0,0
+2015-04-29,"FC Vaduz","FC Basel 1893",1,3
+2015-04-29,"BSC Young Boys","FC Aarau",2,2
+2015-04-30,"FC Luzern","FC St. Gallen",6,2
+2015-05-02,"FC Thun","FC Vaduz",4,0
+2015-05-02,"FC Basel 1893","Grasshopper Club Zürich",2,1
+2015-05-03,"FC St. Gallen","FC Sion",0,1
+2015-05-03,"FC Aarau","FC Luzern",2,6
+2015-05-03,"FC Zürich","BSC Young Boys",0,1
+2015-05-09,"FC Aarau","Grasshopper Club Zürich",0,1
+2015-05-09,"FC Sion","FC Vaduz",4,0
+2015-05-10,"FC Luzern","FC Thun",0,0
+2015-05-10,"BSC Young Boys","FC St. Gallen",3,1
+2015-05-10,"FC Zürich","FC Basel 1893",1,2
+2015-05-16,"FC Vaduz","FC Luzern",0,2
+2015-05-16,"FC Sion","FC Aarau",1,0
+2015-05-17,"Grasshopper Club Zürich","FC St. Gallen",2,0
+2015-05-17,"FC Thun","FC Zürich",2,2
+2015-05-17,"FC Basel 1893","BSC Young Boys",0,0
+2015-05-20,"Grasshopper Club Zürich","FC Sion",0,0
+2015-05-20,"FC St. Gallen","FC Thun",2,1
+2015-05-20,"FC Aarau","FC Basel 1893",2,1
+2015-05-21,"FC Zürich","FC Vaduz",2,2
+2015-05-21,"BSC Young Boys","FC Luzern",0,1
+2015-05-25,"FC Thun","FC Basel 1893",2,2
+2015-05-25,"FC Sion","BSC Young Boys",6,2
+2015-05-25,"FC Luzern","FC Zürich",0,1
+2015-05-25,"FC St. Gallen","FC Aarau",5,1
+2015-05-25,"FC Vaduz","Grasshopper Club Zürich",0,1
+2015-05-29,"FC Basel 1893","FC St. Gallen",4,3
+2015-05-29,"FC Zürich","Grasshopper Club Zürich",4,3
+2015-05-29,"BSC Young Boys","FC Vaduz",2,1
+2015-05-29,"FC Luzern","FC Sion",3,0
+2015-05-29,"FC Aarau","FC Thun",3,2
+2015-07-18,"FC Luzern","FC Sion",2,2
+2015-07-18,"FC Zürich","BSC Young Boys",1,1
+2015-07-19,"FC Basel 1893","FC Vaduz",2,0
+2015-07-19,"FC Thun","Grasshopper Club Zürich",3,5
+2015-07-19,"FC St. Gallen","FC Lugano",2,0
+2015-07-25,"BSC Young Boys","FC Luzern",1,1
+2015-07-25,"Grasshopper Club Zürich","FC Basel 1893",2,3
+2015-07-26,"FC Lugano","FC Thun",2,3
+2015-07-26,"FC Sion","FC St. Gallen",1,0
+2015-07-26,"FC Vaduz","FC Zürich",2,2
+2015-08-01,"FC Basel 1893","FC Sion",3,0
+2015-08-01,"FC St. Gallen","BSC Young Boys",1,1
+2015-08-02,"FC Lugano","FC Vaduz",1,0
+2015-08-02,"FC Thun","FC Luzern",0,1
+2015-08-02,"FC Zürich","Grasshopper Club Zürich",2,3
+2015-08-08,"Grasshopper Club Zürich","FC Lugano",6,1
+2015-08-08,"FC Luzern","FC Basel 1893",1,3
+2015-08-09,"FC St. Gallen","FC Zürich",0,2
+2015-08-09,"FC Vaduz","FC Sion",1,1
+2015-08-09,"BSC Young Boys","FC Thun",3,1
+2015-08-12,"FC Basel 1893","FC Thun",3,1
+2015-08-12,"BSC Young Boys","FC Lugano",0,1
+2015-08-12,"FC Luzern","FC St. Gallen",0,1
+2015-08-13,"FC Sion","FC Zürich",3,1
+2015-08-13,"FC Vaduz","Grasshopper Club Zürich",3,3
+2015-08-22,"FC Lugano","FC Basel 1893",1,3
+2015-08-22,"FC Zürich","FC Luzern",2,5
+2015-08-23,"FC St. Gallen","Grasshopper Club Zürich",0,2
+2015-08-23,"FC Thun","FC Vaduz",1,0
+2015-08-23,"FC Sion","BSC Young Boys",1,3
+2015-08-29,"FC Lugano","FC Luzern",0,1
+2015-08-29,"FC Vaduz","FC St. Gallen",1,0
+2015-08-30,"FC Thun","FC Sion",0,2
+2015-08-30,"FC Basel 1893","FC Zürich",3,1
+2015-08-30,"Grasshopper Club Zürich","BSC Young Boys",3,2
+2015-09-12,"FC Basel 1893","FC St. Gallen",2,1
+2015-09-12,"BSC Young Boys","FC Vaduz",4,0
+2015-09-13,"FC Luzern","Grasshopper Club Zürich",3,3
+2015-09-13,"FC Zürich","FC Thun",3,3
+2015-09-13,"FC Sion","FC Lugano",3,0
+2015-09-22,"FC St. Gallen","FC Thun",1,0
+2015-09-22,"FC Lugano","FC Zürich",0,0
+2015-09-23,"FC Vaduz","FC Luzern",1,2
+2015-09-23,"Grasshopper Club Zürich","FC Sion",2,0
+2015-09-23,"BSC Young Boys","FC Basel 1893",4,3
+2015-09-26,"Grasshopper Club Zürich","FC St. Gallen",1,1
+2015-09-26,"FC Basel 1893","FC Lugano",3,1
+2015-09-27,"FC Sion","FC Vaduz",0,1
+2015-09-27,"FC Thun","BSC Young Boys",0,1
+2015-09-27,"FC Luzern","FC Zürich",1,0
+2015-10-03,"FC Vaduz","FC Thun",1,1
+2015-10-03,"FC Luzern","FC Lugano",2,2
+2015-10-04,"FC St. Gallen","FC Sion",1,1
+2015-10-04,"BSC Young Boys","Grasshopper Club Zürich",3,1
+2015-10-04,"FC Zürich","FC Basel 1893",2,2
+2015-10-17,"Grasshopper Club Zürich","FC Luzern",1,0
+2015-10-17,"FC Vaduz","BSC Young Boys",1,1
+2015-10-18,"FC Sion","FC Basel 1893",0,2
+2015-10-18,"FC Thun","FC Zürich",5,1
+2015-10-18,"FC Lugano","FC St. Gallen",3,1
+2015-10-24,"FC Luzern","FC Vaduz",1,1
+2015-10-24,"FC Zürich","FC St. Gallen",2,2
+2015-10-25,"FC Sion","Grasshopper Club Zürich",3,2
+2015-10-25,"FC Thun","FC Lugano",2,1
+2015-10-25,"FC Basel 1893","BSC Young Boys",1,0
+2015-10-31,"Grasshopper Club Zürich","FC Thun",1,2
+2015-10-31,"FC Vaduz","FC Basel 1893",1,2
+2015-11-01,"BSC Young Boys","FC Zürich",1,1
+2015-11-01,"FC Lugano","FC Sion",3,0
+2015-11-01,"FC St. Gallen","FC Luzern",1,0
+2015-11-07,"FC Zürich","FC Vaduz",1,1
+2015-11-07,"FC Lugano","BSC Young Boys",1,1
+2015-11-08,"FC Sion","FC Luzern",2,0
+2015-11-08,"FC Thun","FC St. Gallen",0,2
+2015-11-08,"FC Basel 1893","Grasshopper Club Zürich",2,3
+2015-11-21,"Grasshopper Club Zürich","FC Vaduz",2,0
+2015-11-21,"FC Luzern","FC Thun",1,0
+2015-11-22,"FC St. Gallen","FC Basel 1893",2,1
+2015-11-22,"FC Zürich","FC Lugano",5,3
+2015-11-22,"BSC Young Boys","FC Sion",1,1
+2015-11-28,"FC Vaduz","FC Lugano",1,1
+2015-11-28,"BSC Young Boys","FC St. Gallen",2,1
+2015-11-29,"FC Basel 1893","FC Luzern",3,0
+2015-11-29,"FC Sion","FC Thun",1,2
+2015-11-29,"Grasshopper Club Zürich","FC Zürich",5,0
+2015-12-05,"FC Zürich","FC Sion",1,0
+2015-12-05,"FC Luzern","BSC Young Boys",3,1
+2015-12-06,"FC St. Gallen","FC Vaduz",2,2
+2015-12-06,"FC Lugano","Grasshopper Club Zürich",4,1
+2015-12-06,"FC Thun","FC Basel 1893",0,2
+2016-02-06,"FC Lugano","FC Vaduz",2,5
+2016-02-06,"BSC Young Boys","Grasshopper Club Zürich",1,1
+2016-02-07,"FC Zürich","FC Sion",0,1
+2016-02-07,"FC St. Gallen","FC Thun",1,2
+2016-02-07,"FC Basel 1893","FC Luzern",3,0
+2016-02-13,"FC Thun","FC Lugano",2,1
+2016-02-13,"FC Vaduz","BSC Young Boys",1,1
+2016-02-14,"Grasshopper Club Zürich","FC Basel 1893",0,4
+2016-02-14,"FC Luzern","FC Zürich",1,2
+2016-02-20,"FC Lugano","FC Zürich",0,0
+2016-02-20,"BSC Young Boys","FC Thun",2,1
+2016-02-21,"FC Basel 1893","FC Vaduz",5,1
+2016-02-21,"Grasshopper Club Zürich","FC Sion",3,0
+2016-02-21,"FC Luzern","FC St. Gallen",0,1
+2016-02-27,"FC Sion","FC Luzern",3,1
+2016-02-27,"FC Zürich","BSC Young Boys",0,1
+2016-02-28,"FC Thun","FC Basel 1893",1,1
+2016-02-28,"FC Vaduz","Grasshopper Club Zürich",1,1
+2016-02-28,"FC St. Gallen","FC Lugano",3,3
+2016-03-05,"FC Zürich","FC Thun",0,0
+2016-03-06,"FC Sion","FC Vaduz",2,0
+2016-03-06,"BSC Young Boys","FC Luzern",5,2
+2016-03-07,"FC St. Gallen","Grasshopper Club Zürich",2,0
+2016-03-12,"FC Vaduz","FC Thun",0,0
+2016-03-12,"FC Luzern","FC Lugano",2,1
+2016-03-13,"BSC Young Boys","FC Sion",3,2
+2016-03-13,"FC Basel 1893","FC St. Gallen",4,2
+2016-03-13,"Grasshopper Club Zürich","FC Zürich",4,2
+2016-03-19,"FC Thun","FC Luzern",1,1
+2016-03-19,"FC St. Gallen","BSC Young Boys",2,3
+2016-03-20,"FC Vaduz","FC Zürich",0,3
+2016-03-20,"Grasshopper Club Zürich","FC Lugano",0,1
+2016-03-20,"FC Sion","FC Basel 1893",0,1
+2016-04-02,"FC Luzern","FC Vaduz",5,1
+2016-04-02,"FC Zürich","FC St. Gallen",4,0
+2016-04-03,"FC Thun","Grasshopper Club Zürich",2,1
+2016-04-03,"FC Lugano","FC Sion",0,6
+2016-04-03,"FC Basel 1893","BSC Young Boys",2,0
+2016-04-09,"BSC Young Boys","FC Lugano",7,0
+2016-04-09,"Grasshopper Club Zürich","FC Luzern",1,1
+2016-04-10,"FC Sion","FC Thun",2,1
+2016-04-10,"FC Basel 1893","FC Zürich",2,2
+2016-04-10,"FC Vaduz","FC St. Gallen",3,0
+2016-04-13,"FC Lugano","FC Basel 1893",1,4
+2016-04-13,"FC Sion","FC St. Gallen",1,1
+2016-04-16,"FC Sion","Grasshopper Club Zürich",2,1
+2016-04-16,"FC Zürich","FC Luzern",0,1
+2016-04-17,"BSC Young Boys","FC Vaduz",5,4
+2016-04-17,"FC Lugano","FC Thun",2,1
+2016-04-17,"FC St. Gallen","FC Basel 1893",0,7
+2016-04-19,"FC Zürich","Grasshopper Club Zürich",1,1
+2016-04-20,"FC Basel 1893","FC Lugano",3,0
+2016-04-20,"FC St. Gallen","FC Sion",2,1
+2016-04-20,"FC Luzern","BSC Young Boys",2,3
+2016-04-21,"FC Thun","FC Vaduz",2,2
+2016-04-23,"FC Sion","FC Lugano",3,1
+2016-04-23,"Grasshopper Club Zürich","FC St. Gallen",2,0
+2016-04-24,"FC Luzern","FC Thun",3,0
+2016-04-24,"BSC Young Boys","FC Zürich",3,0
+2016-04-24,"FC Vaduz","FC Basel 1893",0,0
+2016-04-30,"Grasshopper Club Zürich","BSC Young Boys",1,2
+2016-04-30,"FC Basel 1893","FC Sion",2,1
+2016-05-01,"FC St. Gallen","FC Vaduz",1,3
+2016-05-01,"FC Thun","FC Zürich",4,0
+2016-05-01,"FC Lugano","FC Luzern",1,1
+2016-05-07,"FC Zürich","FC Basel 1893",2,3
+2016-05-07,"FC Thun","FC St. Gallen",2,2
+2016-05-08,"FC Vaduz","FC Luzern",1,2
+2016-05-08,"FC Lugano","Grasshopper Club Zürich",0,1
+2016-05-08,"FC Sion","BSC Young Boys",2,1
+2016-05-10,"FC Basel 1893","FC Thun",1,1
+2016-05-11,"FC Luzern","Grasshopper Club Zürich",3,0
+2016-05-11,"FC Vaduz","FC Sion",2,0
+2016-05-11,"FC Zürich","FC Lugano",0,4
+2016-05-12,"BSC Young Boys","FC St. Gallen",3,1
+2016-05-16,"Grasshopper Club Zürich","FC Vaduz",1,2
+2016-05-16,"FC Lugano","BSC Young Boys",1,3
+2016-05-16,"FC Luzern","FC Basel 1893",4,0
+2016-05-16,"FC St. Gallen","FC Zürich",3,0
+2016-05-16,"FC Thun","FC Sion",1,1
+2016-05-22,"Grasshopper Club Zürich","FC Thun",0,0
+2016-05-22,"FC Sion","FC Zürich",2,2
+2016-05-22,"FC St. Gallen","FC Luzern",1,4
+2016-05-22,"FC Vaduz","FC Lugano",0,0
+2016-05-22,"BSC Young Boys","FC Basel 1893",2,3
+2016-05-25,"FC Basel 1893","Grasshopper Club Zürich",0,1
+2016-05-25,"FC Lugano","FC St. Gallen",3,0
+2016-05-25,"FC Luzern","FC Sion",2,2
+2016-05-25,"FC Thun","BSC Young Boys",0,3
+2016-05-25,"FC Zürich","FC Vaduz",3,1
+2016-07-23,"FC Lugano","FC Luzern",1,2
+2016-07-23,"FC St. Gallen","BSC Young Boys",0,2
+2016-07-24,"Grasshopper Club Zürich","FC Lausanne-Sport",2,0
+2016-07-24,"FC Thun","FC Vaduz",1,1
+2016-07-24,"FC Basel 1893","FC Sion",3,0
+2016-07-30,"FC Sion","FC St. Gallen",2,1
+2016-07-30,"BSC Young Boys","FC Lugano",1,2
+2016-07-31,"FC Lausanne-Sport","FC Thun",4,4
+2016-07-31,"FC Vaduz","FC Basel 1893",1,5
+2016-07-31,"FC Luzern","Grasshopper Club Zürich",4,3
+2016-08-06,"BSC Young Boys","FC Thun",4,1
+2016-08-06,"FC Sion","FC Lausanne-Sport",1,3
+2016-08-07,"FC Lugano","FC Vaduz",0,2
+2016-08-07,"FC Luzern","FC Basel 1893",2,3
+2016-08-07,"FC St. Gallen","Grasshopper Club Zürich",2,1
+2016-08-10,"FC Lugano","FC Sion",3,1
+2016-08-10,"FC Vaduz","FC Luzern",1,3
+2016-08-10,"FC Basel 1893","BSC Young Boys",3,0
+2016-08-11,"FC Lausanne-Sport","FC St. Gallen",1,0
+2016-08-11,"FC Thun","Grasshopper Club Zürich",2,1
+2016-08-20,"BSC Young Boys","FC Lausanne-Sport",7,2
+2016-08-20,"FC Basel 1893","FC Lugano",4,1
+2016-08-21,"Grasshopper Club Zürich","FC Sion",2,1
+2016-08-21,"FC Luzern","FC Thun",3,0
+2016-08-21,"FC Vaduz","FC St. Gallen",2,0
+2016-08-27,"FC Lugano","FC Lausanne-Sport",1,1
+2016-08-27,"FC Sion","FC Vaduz",3,1
+2016-08-28,"Grasshopper Club Zürich","BSC Young Boys",4,1
+2016-08-28,"FC St. Gallen","FC Luzern",3,0
+2016-08-28,"FC Thun","FC Basel 1893",0,3
+2016-09-10,"FC Basel 1893","Grasshopper Club Zürich",3,1
+2016-09-10,"BSC Young Boys","FC Luzern",2,1
+2016-09-11,"FC Lausanne-Sport","FC Vaduz",5,0
+2016-09-11,"FC Sion","FC Thun",1,0
+2016-09-11,"FC St. Gallen","FC Lugano",0,2
+2016-09-20,"FC Thun","FC St. Gallen",1,2
+2016-09-21,"FC Luzern","FC Sion",2,2
+2016-09-21,"FC Vaduz","BSC Young Boys",0,0
+2016-09-21,"FC Lausanne-Sport","FC Basel 1893",1,2
+2016-09-22,"FC Lugano","Grasshopper Club Zürich",2,0
+2016-09-24,"FC Luzern","FC Lausanne-Sport",1,3
+2016-09-24,"FC St. Gallen","FC Basel 1893",1,3
+2016-09-25,"Grasshopper Club Zürich","FC Vaduz",2,1
+2016-09-25,"FC Thun","FC Lugano",2,2
+2016-09-25,"FC Sion","BSC Young Boys",0,0
+2016-10-01,"FC Vaduz","FC Sion",2,5
+2016-10-01,"FC Basel 1893","FC Thun",1,1
+2016-10-02,"FC Lausanne-Sport","FC Lugano",4,1
+2016-10-02,"BSC Young Boys","FC St. Gallen",2,2
+2016-10-02,"Grasshopper Club Zürich","FC Luzern",3,2
+2016-10-15,"FC Thun","FC Lausanne-Sport",1,0
+2016-10-15,"FC Basel 1893","FC Luzern",3,0
+2016-10-16,"FC Sion","Grasshopper Club Zürich",4,2
+2016-10-16,"FC St. Gallen","FC Vaduz",0,2
+2016-10-16,"FC Lugano","BSC Young Boys",0,0
+2016-10-22,"FC Vaduz","FC Thun",2,3
+2016-10-22,"FC Lugano","FC Basel 1893",2,2
+2016-10-23,"BSC Young Boys","Grasshopper Club Zürich",4,0
+2016-10-23,"FC Luzern","FC St. Gallen",3,0
+2016-10-23,"FC Lausanne-Sport","FC Sion",0,2
+2016-10-29,"FC Sion","FC Lugano",5,1
+2016-10-29,"Grasshopper Club Zürich","FC Basel 1893",0,2
+2016-10-30,"FC Lausanne-Sport","FC Luzern",2,3
+2016-10-30,"BSC Young Boys","FC Vaduz",5,0
+2016-10-30,"FC St. Gallen","FC Thun",0,0
+2016-11-05,"FC Thun","FC Sion",2,3
+2016-11-05,"FC Basel 1893","FC Lausanne-Sport",2,1
+2016-11-06,"FC Lugano","FC St. Gallen",2,3
+2016-11-06,"FC Vaduz","Grasshopper Club Zürich",0,0
+2016-11-06,"FC Luzern","BSC Young Boys",2,2
+2016-11-19,"Grasshopper Club Zürich","FC Thun",1,1
+2016-11-19,"FC Basel 1893","FC Vaduz",6,0
+2016-11-20,"FC St. Gallen","FC Lausanne-Sport",2,0
+2016-11-20,"BSC Young Boys","FC Sion",4,3
+2016-11-20,"FC Luzern","FC Lugano",2,1
+2016-11-26,"FC Thun","FC Luzern",1,2
+2016-11-26,"Grasshopper Club Zürich","FC St. Gallen",2,2
+2016-11-27,"FC Lausanne-Sport","BSC Young Boys",1,2
+2016-11-27,"FC Vaduz","FC Lugano",5,1
+2016-11-27,"FC Sion","FC Basel 1893",1,2
+2016-12-03,"FC Luzern","FC Vaduz",3,0
+2016-12-03,"BSC Young Boys","FC Basel 1893",3,1
+2016-12-04,"FC Lausanne-Sport","Grasshopper Club Zürich",1,2
+2016-12-04,"FC Lugano","FC Thun",1,1
+2016-12-04,"FC St. Gallen","FC Sion",2,1
+2016-12-10,"FC Vaduz","FC Lausanne-Sport",1,1
+2016-12-10,"FC Basel 1893","FC St. Gallen",1,0
+2016-12-11,"Grasshopper Club Zürich","FC Lugano",0,0
+2016-12-11,"FC Sion","FC Luzern",3,1
+2016-12-11,"FC Thun","BSC Young Boys",2,3
+2017-02-04,"Grasshopper Club Zürich","FC Thun",0,1
+2017-02-04,"FC Basel 1893","FC Lugano",4,0
+2017-02-05,"FC Lausanne-Sport","FC Luzern",4,4
+2017-02-05,"FC Vaduz","FC St. Gallen",1,1
+2017-02-05,"BSC Young Boys","FC Sion",3,1
+2017-02-11,"FC Thun","FC Basel 1893",0,2
+2017-02-11,"FC Lugano","Grasshopper Club Zürich",3,0
+2017-02-12,"FC Sion","FC Vaduz",4,2
+2017-02-12,"FC St. Gallen","FC Lausanne-Sport",2,1
+2017-02-12,"FC Luzern","BSC Young Boys",4,1
+2017-02-18,"FC Luzern","FC Thun",1,1
+2017-02-18,"BSC Young Boys","FC St. Gallen",2,2
+2017-02-19,"FC Vaduz","FC Lugano",1,1
+2017-02-19,"FC Basel 1893","FC Lausanne-Sport",4,3
+2017-02-19,"Grasshopper Club Zürich","FC Sion",0,1
+2017-02-25,"FC Thun","FC Vaduz",4,3
+2017-02-25,"Grasshopper Club Zürich","BSC Young Boys",2,3
+2017-02-26,"FC Lausanne-Sport","FC Sion",0,1
+2017-02-26,"FC Basel 1893","FC Luzern",3,1
+2017-02-26,"FC St. Gallen","FC Lugano",0,1
+2017-03-04,"FC Lugano","FC Lausanne-Sport",2,1
+2017-03-04,"BSC Young Boys","FC Thun",3,2
+2017-03-05,"FC Sion","FC St. Gallen",1,2
+2017-03-05,"FC Vaduz","FC Basel 1893",1,1
+2017-03-05,"FC Luzern","Grasshopper Club Zürich",1,1
+2017-03-11,"Grasshopper Club Zürich","FC Vaduz",1,2
+2017-03-11,"FC St. Gallen","FC Luzern",1,1
+2017-03-12,"FC Thun","FC Lugano",5,2
+2017-03-12,"FC Lausanne-Sport","BSC Young Boys",0,0
+2017-03-12,"FC Sion","FC Basel 1893",0,1
+2017-03-18,"FC Luzern","FC Sion",NaN,NaN
+2017-03-18,"FC Basel 1893","Grasshopper Club Zürich",NaN,NaN
+2017-03-19,"FC Lugano","BSC Young Boys",NaN,NaN
+2017-03-19,"FC Thun","FC St. Gallen",NaN,NaN
+2017-03-19,"FC Vaduz","FC Lausanne-Sport",NaN,NaN
+2017-04-01,"FC Sion","FC Thun",NaN,NaN
+2017-04-01,"FC St. Gallen","FC Basel 1893",NaN,NaN
+2017-04-02,"BSC Young Boys","FC Vaduz",NaN,NaN
+2017-04-02,"FC Luzern","FC Lugano",NaN,NaN
+2017-04-02,"FC Lausanne-Sport","Grasshopper Club Zürich",NaN,NaN
+2017-04-08,"FC Thun","FC Lausanne-Sport",NaN,NaN
+2017-04-08,"Grasshopper Club Zürich","FC St. Gallen",NaN,NaN
+2017-04-09,"FC Lugano","FC Sion",NaN,NaN
+2017-04-09,"FC Vaduz","FC Luzern",NaN,NaN
+2017-04-09,"FC Basel 1893","BSC Young Boys",NaN,NaN
+2017-04-15,"FC Lausanne-Sport","FC Basel 1893",NaN,NaN
+2017-04-15,"FC Lugano","FC Thun",NaN,NaN
+2017-04-15,"FC Luzern","FC St. Gallen",NaN,NaN
+2017-04-15,"FC Vaduz","FC Sion",NaN,NaN
+2017-04-15,"BSC Young Boys","Grasshopper Club Zürich",NaN,NaN
+2017-04-22,"FC Basel 1893","FC Vaduz",NaN,NaN
+2017-04-22,"Grasshopper Club Zürich","FC Luzern",NaN,NaN
+2017-04-22,"FC Sion","FC Lausanne-Sport",NaN,NaN
+2017-04-22,"FC St. Gallen","FC Thun",NaN,NaN
+2017-04-22,"BSC Young Boys","FC Lugano",NaN,NaN
+2017-04-29,"Grasshopper Club Zürich","FC Lugano",NaN,NaN
+2017-04-29,"FC Lausanne-Sport","FC Vaduz",NaN,NaN
+2017-04-29,"FC Luzern","FC Basel 1893",NaN,NaN
+2017-04-29,"FC St. Gallen","BSC Young Boys",NaN,NaN
+2017-04-29,"FC Thun","FC Sion",NaN,NaN
+2017-05-06,"FC Lausanne-Sport","FC St. Gallen",NaN,NaN
+2017-05-06,"FC Lugano","FC Basel 1893",NaN,NaN
+2017-05-06,"FC Sion","BSC Young Boys",NaN,NaN
+2017-05-06,"FC Thun","FC Luzern",NaN,NaN
+2017-05-06,"FC Vaduz","Grasshopper Club Zürich",NaN,NaN
+2017-05-13,"FC Basel 1893","FC Thun",NaN,NaN
+2017-05-13,"Grasshopper Club Zürich","FC Lausanne-Sport",NaN,NaN
+2017-05-13,"FC Sion","FC Lugano",NaN,NaN
+2017-05-13,"FC St. Gallen","FC Vaduz",NaN,NaN
+2017-05-13,"BSC Young Boys","FC Luzern",NaN,NaN
+2017-05-17,"FC Basel 1893","FC Sion",NaN,NaN
+2017-05-17,"FC Lugano","FC St. Gallen",NaN,NaN
+2017-05-17,"FC Luzern","FC Lausanne-Sport",NaN,NaN
+2017-05-17,"FC Thun","Grasshopper Club Zürich",NaN,NaN
+2017-05-17,"FC Vaduz","BSC Young Boys",NaN,NaN
+2017-05-20,"FC Lausanne-Sport","FC Thun",NaN,NaN
+2017-05-20,"FC Lugano","FC Vaduz",NaN,NaN
+2017-05-20,"FC Sion","FC Luzern",NaN,NaN
+2017-05-20,"FC St. Gallen","Grasshopper Club Zürich",NaN,NaN
+2017-05-20,"BSC Young Boys","FC Basel 1893",NaN,NaN
+2017-05-28,"Grasshopper Club Zürich","FC Basel 1893",NaN,NaN
+2017-05-28,"FC Lausanne-Sport","FC Lugano",NaN,NaN
+2017-05-28,"FC Luzern","FC Vaduz",NaN,NaN
+2017-05-28,"FC St. Gallen","FC Sion",NaN,NaN
+2017-05-28,"FC Thun","BSC Young Boys",NaN,NaN
+2017-06-02,"FC Basel 1893","FC St. Gallen",NaN,NaN
+2017-06-02,"FC Lugano","FC Luzern",NaN,NaN
+2017-06-02,"FC Sion","Grasshopper Club Zürich",NaN,NaN
+2017-06-02,"FC Vaduz","FC Thun",NaN,NaN
+2017-06-02,"BSC Young Boys","FC Lausanne-Sport",NaN,NaN
